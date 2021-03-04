@@ -12,6 +12,3 @@ Process a song:
 
 `spleeter separate -i my_song.mp3 -p spleeter:2stems -o output`
 
-
-
-
