@@ -8,7 +8,7 @@ In respository:
 2. Put mp3 into repo
 3. Install Spleeter by following these steps carefully in terminal: https://ezstems.com/installing-spleeter-mac/
 
-Process a song:
+## To process a song in terminal:
 
-`spleeter separate -i my_song.mp3 -p spleeter:2stems -o output`
+`spleeter separate -i YOUR-SONG.mp3 -p spleeter:2stems -o output`
 
